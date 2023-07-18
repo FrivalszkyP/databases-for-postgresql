@@ -62,6 +62,7 @@ toc:
           topics: 
           - howto-read-replica.md
           - howto-logical-replication.md
+          - howto-ha-rr.md
       - howto-upgrading.md
       - topicgroup: 
           label: Configuring PostgreSQL
