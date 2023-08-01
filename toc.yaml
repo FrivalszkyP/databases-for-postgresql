@@ -119,9 +119,6 @@ toc:
       - ts-max-connections.md
       - ts-no-space-left.md
       - ts-long-term-queries.md
-  - navgroup:
-      id: help
-      topics:
       - topicgroup:
           label: FAQs
           topics:
