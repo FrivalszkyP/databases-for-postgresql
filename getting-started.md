@@ -4,7 +4,7 @@ copyright:
   years: 2018, 2023
 lastupdated: "2023-12-12"
 
-keywords: pgAdmin, postgresql gui, postgresql, postgres, postgresql cloud database, potgres getting started
+keywords: pgAdmin, postgresql gui, postgresql, postgres, postgresql cloud database, postgres getting started
 
 subcollection: databases-for-postgresql
 
