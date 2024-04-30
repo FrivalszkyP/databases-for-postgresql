@@ -1,6 +1,6 @@
 {
   "title": "IBM Cloud® Databases for PostgreSQL docs",
-  "lastupdated": "2024-01-19",
+  "lastupdated": "2024-05-01",
   "introduction": "PostgreSQL is a powerful, open source object-relational database that is highly customizable.",
   "section_devtools": {
     "api": "/apidocs/cloud-databases-api/cloud-databases-api-v5#introduction",
@@ -34,6 +34,11 @@
     "view_more": "/docs/databases-for-postgresql?topic=databases-for-postgresql-postgresql-relnotes",
     "tiles": [
       {
+        "date": "1 May 2024",
+        "title": "New hosting models",
+        "description": "You can choose between two hosting models: Isolated Compute and Shared Compute. Isolated Compute is a secure single-tenant offering for complex, highly performant enterprise workloads. Shared Compute is a flexible multi-tenant offering for dynamic, fine-tuned, and decoupled capacity selections."
+      },
+      {
         "date": "18 Jan 2024",
         "title": "IBM Cloud® Databases for PostgreSQL version 12 End of life on January 22, 2025",
         "description": "Action required before January 22, 2025, for your PostgreSQL v12 deployments. After January 22, 2025, all IBM Cloud® Databases for PostgreSQL instances on version 12 that are still active will be disabled. Users are expected to be on the latest versions of PostgreSQL or get the preferred version of IBM Cloud® Databases for PostgreSQL. Upgrade your database instances by following the procedure at Upgrading to a new Major Version. If you have any questions or concerns, contact Cloud Databases support."
@@ -42,11 +47,6 @@
         "date": "27 Nov 2023",
         "title": "Monitoring Integration documentation updated",
         "description": "Monitoring Integration documentation now lists metrics for all {{site.data.keyword.databases-for}} services."
-      },
-      {
-        "date": "17 Nov 2023",
-        "title": "Deploy pgadmin using Code Engine and connect to your Databases for PostgreSQL instance",
-        "description": "With this tutorial, deploy pgadmin using Code Engine and connect to your Databases for PostgreSQL instance. pgadmin is a web interface that allows you to view and modify the data in your PostgreSQL database. Code Engine is a a fully managed, serverless platform that allows you to run workloads without worrying about deploying infrastructure."
       }
     ]
   }
