@@ -72,7 +72,7 @@ curl -X POST \
 ## Back up and restore upgrade
 {: #backup-restore}
 
-You can upgrade your database version by [restoring a backup](//docs/cloud-databases?topic=cloud-databases-dashboard-backups&interface=ui#restore-backup-ui) of your data into a new deployment that is running the new database version.
+You can upgrade your database version by [restoring a backup](/docs/cloud-databases?topic=cloud-databases-dashboard-backups&interface=ui#restore-backup-ui) of your data into a new deployment that is running the new database version.
 
 ### Upgrading in the UI
 {: #upgrading-ui}
